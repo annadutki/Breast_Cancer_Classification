@@ -42,8 +42,8 @@ Number of Instances: 569
 Class Distribution: 212 - Malignant, 357 - Benign
 
 Target class:
-   - Malignant
-   - Benign
+   - Malignant (0)
+   - Benign (1)
 
 Data information: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
