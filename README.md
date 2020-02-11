@@ -1,7 +1,7 @@
 # Breast_Cancer_Classification
-1. Description
+## Description
 
-Predicting if the cancer diagnosis is benign or malignant based on several observations/features
+**The aim is to predict if the cancer diagnosis is benign or malignant based on several features**
 
 30 features are used:
    - radius
