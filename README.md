@@ -30,6 +30,25 @@ Data information: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsi
 - Split data into train and test data
 - Train data using SVC
 4. Model evaluating
+- Test data using SVC
+- Print confusion matrix
+- Print heatmap
+- Print classification report
+5. Model improving
+- Normalize data
+- Train scaled data using SVC
+- Test scaled data using SVC
+- Print confusion matrix
+- Print heatmap
+- Print classification report
+6. Model further improving
+- Define grid parameters
+- Train scaled data using SVC
+- Print best parameters
+- Test scaled data using SVC
+- Print confusion matrix
+- Print heatmap
+- Print classification report
 
 ### Acknowledgements
 This implementation was inspired by Kirill Eremenko, Hadelin de Ponteves, Dr. Ryan Ahmed, Ph.D., MBA, SuperDataScience Team, Rony Sulca [Machine Learning Practical Udemy course](https://www.udemy.com/course/machine-learning-practical/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.ROW_ti.5336&utm_content=deal4584&utm_term=_._ag_85469003954_._ad_395279056268_._kw__._de_c_._dm__._pl__._ti_dsa-774930036449_._li_1011367_._pd__._&matchtype=b&gclid=CjwKCAiAvonyBRB7EiwAadauqdGsq1pYwJXPHmZpdR12WWHTeI31ZGNAR7wJqhrnln_dI452sQCbCBoCnvwQAvD_BwE)
