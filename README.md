@@ -3,7 +3,7 @@
 
 **The aim is to predict if the cancer diagnosis is benign or malignant based on several features**
 
-30 features are used:radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension, radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension, radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension.
+30 features are used: radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension, radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension, radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension.
 
 Missing Attribute Values: None
 
