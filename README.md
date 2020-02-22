@@ -19,15 +19,14 @@ Data information: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsi
 
 ### Workflow
 1. Data import
-- Load libraries (pandas, numpy, matplotlib, seaborn)
+- Load libraries
 - Load dataset
+- Create dataframe
 2. Data visualizing
-- Use pairplot to show the relations between different variables, few default features were chosen
-- Use countplot to count the samples
-- Plot the correlation matrix to see the correlations between the features
+- Data overview on the example of 5 features where 0 - malignant, 1 - benign
+- Print correlation matrix
 3. Model training
-- Define input/ output values
-- Split data into train and test data
+- Define feature (inputs) and target (output) values
 - Train data using SVC
 4. Model evaluating
 - Test data using SVC
